@@ -5,5 +5,6 @@
     Click to reveal text
   </summary>
   <p align="center"><p style="margin-top: 10px;"> <p align="center"> Kyle/Eight</p>
-</details><p align="center">Busy 27/4 , w2i
+  <p align="center">Busy 27/4 , w2i
 <p align="center">ENG/ESP
+</details>
