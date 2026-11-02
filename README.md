@@ -5,6 +5,8 @@
     Click to reveal text
   </summary>
   <p style="margin-top: 10px;">Kyle/Eight
+  Busy man 24/7 , w2i with me
+  ENG/ESP
 
 
 
