@@ -6,5 +6,7 @@
   </summary>
   <p align="center"><p style="margin-top: 10px;"> <p align="center"> Kyle/Eight</p>
   <p align="center">Busy 27/4 , w2i
-<p align="center">ENG/ESP
+<p align="center"><p>This is normal text. <small>This text is smaller.</small></p>
+ENG/ESP
+
 </details>
