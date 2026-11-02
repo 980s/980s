@@ -1,4 +1,3 @@
 <p align="center"><img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/6c561ea3-f110-4492-92e4-d26e410785c8" />
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=23714AC5&width=436&lines=You+knew+that+you+meant+the+world+to+me;But+what+can+I+say%3F;It's+our+rotten+love." alt="Typing SVG" /></a>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=18&pause=1000&color=23714AC5&width=436&lines=You+knew+that+you+meant+the+world+to+me;++++++++++++++++++But+what+can+I+say%3F;+++++++++++++++++++It's+our+rotten+love." alt="Typing SVG" /></a>
 
