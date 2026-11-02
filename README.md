@@ -3,10 +3,11 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <a href=<a href alt=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
+  <a href=<a href alt=<a href=
 
 >
-    <img src="https://demolab.com" alt="Typing SVG" />
+    <img src="https://demolab.com" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
+
   </a>
 </div>
 
