@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=18&pause=984&color=23714AC5&width=450&height=90&lines=You+knew+you+meant+the+world+to+me;%E3%85%A4%E3%85%A4+++++++++But+what+can+I+say%3F;%E3%85%A4%E3%85%A4It's+our+rotten+love." alt="Typing SVG" /></a>
 <p align="center"><details>
   <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
-    <p align="center"><img width="1179" height="1025" alt="image" src="https://github.com/user-attachments/assets/c8c91867-b36e-462f-a1a4-a1741f1f9616" />
+    <p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c8c91867-b36e-462f-a1a4-a1741f1f9616" />
 
 
   </summary>
