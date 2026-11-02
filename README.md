@@ -4,9 +4,9 @@
   <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
     Click to reveal text
   </summary>
-  <p style="margin-top: 10px;">Kyle/Eight                                                                                         
-  Busy man 24/7 , w2i with me                                                                                                     
-  ENG/ESP
+  <p align="center"><p style="margin-top: 10px;">Kyle/Eight                                                                                 
+  <p align="center">Busy man 24/7 , w2i with me                                                                                                
+  <p align="center">ENG/ESP
 
 
 
