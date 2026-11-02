@@ -15,6 +15,8 @@
   <p align="center"><img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
   
   </summary>
-  <p align="center"><p style="margin-top: 10px;"> <p align="center">
-
+  <p align="center"><p style="margin-top: 10px;"> <p align="center">This is still a WIP so don't expect much
+ <p align="center">Call me anything you can think of
+ <p align="center">Busy guy 24/7 : W2i
+ <p align="center">ESP/ENG
 </details>
