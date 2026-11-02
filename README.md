@@ -3,7 +3,7 @@
   
   <p align="center"><details>
   <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
-  <p align="center"><img width="1106" height="658" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
+  <p align="center"><img width="106" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
   
   </summary>
   <p align="center"><p style="margin-top: 10px;"> <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=5A221D&width=435&lines=Kyle%2FEight;Busy+man+%E2%8B%AE+W2i;ENG%2FESP" alt="Typing SVG" /></a>
