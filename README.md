@@ -6,5 +6,6 @@
   <p align="center"><img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
   
   </summary>
-  <p align="center"><p style="margin-top: 10px;"> <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=5A221D&width=435&lines=Kyle%2FEight;Busy+man+%E2%8B%AE+W2i;ENG%2FESP" alt="Typing SVG" /></a>
+  <p align="center"><p style="margin-top: 10px;"> <p align="center"><p>This is <span style="color: red;">red text</span> on GitHub Pages.</p>
+
 </details>
