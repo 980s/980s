@@ -2,7 +2,12 @@
 <p align="center"><img width="1300" height="100" alt="image" src="https://github.com/user-attachments/assets/846e0175-d909-4597-b201-3b202ef34fd2" />
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
+<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+  <a href=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
+>
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</div>
 
   
   <p align="center"><details>
