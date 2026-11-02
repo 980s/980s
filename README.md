@@ -1,11 +1,8 @@
 <p align="center"><img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6c561ea3-f110-4492-92e4-d26e410785c8" />
 <p align="center"><img width="1300" height="100" alt="image" src="https://github.com/user-attachments/assets/846e0175-d909-4597-b201-3b202ef34fd2" />
 
-  <div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://demolab.com." alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=18&pause=984&color=23714AC5&width=450&height=90&lines=You+knew+you+meant+the+world+to+me;%E3%85%A4%E3%85%A4+++++++++But+what+can+I+say%3F;%E3%85%A4%E3%85%A4It's+our+rotten+love." alt="Typing SVG" /></a>
-  </a>
-</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
 
   
   <p align="center"><details>
