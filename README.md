@@ -6,6 +6,6 @@
   <p align="center"><img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
   
   </summary>
-  <p align="center"><p style="margin-top: 10px;"> <p align="center"><p>This is <span style="color: red;">red text</span> on GitHub Pages.</p>
+  <p align="center"><p style="margin-top: 10px;"> <p align="center"><p> hi
 
 </details>
