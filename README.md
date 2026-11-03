@@ -18,7 +18,7 @@
   <p align="center"><p style="margin-top: 10px;"> <p align="center">This is still a WIP so don't expect much
  <p align="center">Call me anything you can think of
  <p align="center">Busy guy 24/7 : W2i
- <p align="center">ESP/ENG + a lil RUS
+ <p align="center">ESP/ENG/RUS
 </details>
 
 
