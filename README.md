@@ -1,7 +1,5 @@
 
-<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/50190d91-38f1-47f3-a44e-5681b71c8b47" />  <p align="right"><details>
- 
-<p align="right"> <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
+<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/50190d91-38f1-47f3-a44e-5681b71c8b47" /> 
   
 
 
