@@ -1,19 +1,5 @@
 
-<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/50190d91-38f1-47f3-a44e-5681b71c8b47" />
-
-
-
-
-
-<p align="right"<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  
-  <p align="right"<a href=<a href alt=<a href=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
-
-
-
-
-  
-  <p align="right"><details>
+<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/50190d91-38f1-47f3-a44e-5681b71c8b47" />  <p align="right"><details>
   <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
   
   </summary>
@@ -22,6 +8,14 @@
  <p align="right">Busy guy 24/7 : W2i
  <p align="right">ESP/ENG/RUS
 </details>
+
+
+
+
+
+<p align="right"<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+  
+  <p align="right"<a href=<a href alt=<a href=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=3C5A22&width=435&lines=But+it+don't+matter+how+your+love+feels+anymore;It'll+never+be+the+cure" alt="Typing SVG" /></a>
 
 
 <p align="right">
