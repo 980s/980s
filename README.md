@@ -15,7 +15,6 @@
   
   <p align="right"><details>
   <summary style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px; cursor: pointer;">
-  <p align="right"><img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf970ed-41bf-44bc-8c2b-645437c67713" />
   
   </summary>
   <p align="right"><p style="margin-top: 10px;"> <p align="center">This is still a WIP so don't expect much
