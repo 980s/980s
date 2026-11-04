@@ -1,10 +1,9 @@
 
-<p align="left"><img align="right" width="300" src="YOUR_IMAGE_URL_HERE"><img width="752" height="920" alt="image" src="https://github.com/user-attachments/assets/ca94ba96-98e3-4eea-ab7c-8bbbac59fdea" />
+<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/22106207-4040-49c8-a611-524609289d41" /><p align="right"> wip
 
 
-This text will appear on the left side of the image. Because the image is aligned 
-to the right, the text naturally flows around it on the left without dropping 
-down to the bottom. You can write as much content here as you need.
+
+
 
   
 
