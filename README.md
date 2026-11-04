@@ -1,5 +1,11 @@
 
-<p align="left"><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/50190d91-38f1-47f3-a44e-5681b71c8b47" /> <p align="right"> hi
+<p align="left"><img align="right" width="300" src="YOUR_IMAGE_URL_HERE"><img width="752" height="920" alt="image" src="https://github.com/user-attachments/assets/ca94ba96-98e3-4eea-ab7c-8bbbac59fdea" />
+
+
+This text will appear on the left side of the image. Because the image is aligned 
+to the right, the text naturally flows around it on the left without dropping 
+down to the bottom. You can write as much content here as you need.
+
   
 
 
