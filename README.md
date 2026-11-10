@@ -1,8 +1,8 @@
 
 
 <p align="center"><a href=https://980s.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
+<p align="center"><img width="931" height="614" alt="image" src="https://github.com/user-attachments/assets/c6dcd04e-cf59-497b-a810-b762c917b962" />
 
-<p align="center">wip
 
 
 
