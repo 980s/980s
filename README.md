@@ -3,6 +3,7 @@
 
 
 
+
 <p align="center">$\textcolor{#40201D}{\text{𝘐 𝘩𝘢𝘵𝘦 𝘺𝘰𝘶, 𝘣𝘶𝘵 𝘐 𝘸𝘢𝘯𝘵 𝘺𝘰𝘶 𝘯𝘦𝘢𝘳𝘦𝘳}}$
 
 
@@ -11,7 +12,7 @@
 
 
 
-<p align="center">$\textcolor{#332216}{\text{𝘚𝘩𝘦 𝘮𝘢𝘬𝘦𝘴 𝘮𝘺 𝘸𝘩𝘰𝘭𝘦 𝘥𝘢𝘮𝘯 𝘣𝘰𝘥𝘺 𝘴𝘩𝘪𝘷𝘦𝘳}}$
+<p align="center">$\textcolor{#332216}{\text{𝘏𝘦 𝘮𝘢𝘬𝘦𝘴 𝘮𝘺 𝘸𝘩𝘰𝘭𝘦 𝘥𝘢𝘮𝘯 𝘣𝘰𝘥𝘺 𝘴𝘩𝘪𝘷𝘦𝘳}}$
 
 <details
   <p align="center"><summary>$\textcolor{#43342C}{\text{(˶ˆ꒳ˆ˵)}}$</summary>
