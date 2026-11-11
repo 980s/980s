@@ -12,14 +12,14 @@
 
 
 <p align="center">$\textcolor{#332216}{\text{𝘚𝘩𝘦 𝘮𝘢𝘬𝘦𝘴 𝘮𝘺 𝘸𝘩𝘰𝘭𝘦 𝘥𝘢𝘮𝘯 𝘣𝘰𝘥𝘺 𝘴𝘩𝘪𝘷𝘦𝘳}}$
-<p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
+
 <details
   <p align="center"><summary>$\textcolor{#43342C}{\text{(˶ˆ꒳ˆ˵)}}$</summary>
   <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>@sakumaki</a><a href=https://1890s.straw.page target="_blank"></a>
 
 </details>
 
-			
+<p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
 	
 
 
