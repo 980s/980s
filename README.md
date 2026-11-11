@@ -5,8 +5,8 @@
 
 
 
-<details>
-  <summary>(˶ˆ꒳ˆ˵)</summary>
+<details
+  <p align="center"><summary>(˶ˆ꒳ˆ˵)</summary>
   <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>@Ouka</a><a href=https://1890s.straw.page target="_blank"></a>
 
 </details>
