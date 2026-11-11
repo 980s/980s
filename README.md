@@ -6,13 +6,9 @@
 
 
 <details>
-  <summary>Click here to see what's inside!</summary>
+  <summary>(˶ˆ꒳ˆ˵)</summary>
+  wip
 
-  ### Hidden Content Goes Here
-  - You can put text, code blocks, images, or markdown inside.
-  ```python
-  print("Hello from inside the dropdown!")
-  ```
 </details>
 
 			
