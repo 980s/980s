@@ -1,4 +1,7 @@
-<font color="red"> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=980s&label=Ushankas+Found" alt="Ushankas Found" />
+</p>
+
 <p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
 <p align="center"><img width="1004" height="841" alt="image" src="https://github.com/user-attachments/assets/2fce761b-af39-42a1-aba0-e3e73437f99b" />
 
