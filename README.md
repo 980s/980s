@@ -5,13 +5,12 @@
 
 
 
-<p align="center"<details>
-  <summary>Click here to reveal the hidden text</summary>
+<p align="center"<details><summary>h</summary>
   
-  ### This is hidden content!
   You can put standard text, images, or even code blocks inside here.
   
 </details>
+
 
 
 
