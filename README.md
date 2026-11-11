@@ -1,5 +1,4 @@
-<font color="red">hey
-
+<font color="red"> 
 <p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
 <p align="center"><img width="701" height="619" alt="image" src="https://github.com/user-attachments/assets/b9098476-6464-4035-a6aa-da7e5ddd6be0" />
 
