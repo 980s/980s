@@ -6,7 +6,7 @@
 <p align="center">$\textcolor{#40201D}{\text{𝘐 𝘩𝘢𝘵𝘦 𝘺𝘰𝘶, 𝘣𝘶𝘵 𝘐 𝘸𝘢𝘯𝘵 𝘺𝘰𝘶 𝘯𝘦𝘢𝘳𝘦𝘳}}$
 
 
-<p align="center"><img width="663" height="524" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
+<p align="center"><img width="663" height="544" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
 
 
 
