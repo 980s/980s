@@ -1,4 +1,4 @@
- <p align="center"><img src="https://komarev.com/ghpvc/?username=980s&style=for-the-badge&color=39341E&label=Ushankas+Found" alt="Ushankas Found" />
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=980s&labelColor=11d110d&style=for-the-badge&color=39341E&label=Ushankas+Found" alt="Ushankas Found" />
 </p>
 
 
