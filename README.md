@@ -1,7 +1,8 @@
 
 
 <p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
-<p align="center"><img width="631" height="414" alt="image" src="https://github.com/user-attachments/assets/c6dcd04e-cf59-497b-a810-b762c917b962" />
+<p align="center"><img width="1079" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8052c03-67d5-451f-b4cd-f8fe10581986" />
+
 <p align="center">Male Minor ; c+h enc
 
 
