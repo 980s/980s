@@ -7,7 +7,7 @@
 <p align="center">$\textcolor{#40201D}{\text{I ᕼᗩTE YOᑌ, ᗷᑌT I ᗯᗩᑎT YOᑌ ᑎEᗩᖇEᖇ}}$
 
 
-<p align="center"><img width="663" height="544" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
+<p align="center"><img width="663" height="564" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
 
 
 
