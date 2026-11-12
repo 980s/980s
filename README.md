@@ -16,7 +16,7 @@
 <p align="center">$\textcolor{#8A674F}{\text{ᕼE ᗰᗩKEᔕ ᗰY ᗯᕼOᒪE ᗪᗩᗰᑎ ᗷOᗪY ᔕᕼIᐯEᖇ}}$
 
 <details
-  <p align="center"><summary>$\textcolor{#BA949F}{\text{(˶ˆ꒳ˆ˵)}}$</summary>
+  <p align="center"><summary>$\textcolor{#BA949F}{\text{(♡)}}$</summary>
   <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>@sakumaki</a><a href=https://1890s.straw.page target="_blank"></a>
 
 </details>
