@@ -4,7 +4,7 @@
 
 
 
-<p align="center">$\textcolor{#40201D}{\text{I ᕼᗩTE YOᑌ, ᗷᑌT I ᗯᗩᑎT YOᑌ ᑎEᗩᖇEᖇ}}$
+<p align="center">$\textcolor{#9C7C65}{\text{I ᕼᗩTE YOᑌ, ᗷᑌT I ᗯᗩᑎT YOᑌ ᑎEᗩᖇEᖇ}}$
 
 
 <p align="center"><img width="663" height="564" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
@@ -12,10 +12,10 @@
 
 
 
-<p align="center">$\textcolor{#332216}{\text{ᕼE ᗰᗩKEᔕ ᗰY ᗯᕼOᒪE ᗪᗩᗰᑎ ᗷOᗪY ᔕᕼIᐯEᖇ}}$
+<p align="center">$\textcolor{#8A674F}{\text{ᕼE ᗰᗩKEᔕ ᗰY ᗯᕼOᒪE ᗪᗩᗰᑎ ᗷOᗪY ᔕᕼIᐯEᖇ}}$
 
 <details
-  <p align="center"><summary>$\textcolor{#43342C}{\text{(˶ˆ꒳ˆ˵)}}$</summary>
+  <p align="center"><summary>$\textcolor{#BA949F}{\text{(˶ˆ꒳ˆ˵)}}$</summary>
   <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>@sakumaki</a><a href=https://1890s.straw.page target="_blank"></a>
 
 </details>
