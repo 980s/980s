@@ -7,7 +7,8 @@
 <p align="center">$\textcolor{#9C7C65}{\text{I ᕼᗩTE YOᑌ, ᗷᑌT I ᗯᗩᑎT YOᑌ ᑎEᗩᖇEᖇ}}$
 
 
-<p align="center"><img width="663" height="564" alt="image" src="https://github.com/user-attachments/assets/16bc2e82-406c-47e9-bef4-c335f9b738d8" />
+<p align="center"><img width="973" height="511" alt="image" src="https://github.com/user-attachments/assets/80b8e17b-e079-40d3-b0f7-a92057510f32" />
+
 
 
 
@@ -22,6 +23,7 @@
 
 <p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
 	
+
 
 
 
