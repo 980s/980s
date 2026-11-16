@@ -4,17 +4,20 @@
 
 
 
-<p align="center">$\textcolor{#9C7C65}{\text{I ᕼᗩTE YOᑌ, ᗷᑌT I ᗯᗩᑎT YOᑌ ᑎEᗩᖇEᖇ}}$
+<p align="center">$\textcolor{#681416}{\text{This is a WIP, photos aren’t clickable yet.}}$
 
 
-<p align="center"><img width="660" height="475" alt="image" src="https://github.com/user-attachments/assets/0bac922b-5122-46b7-8d38-31ac49a5e09a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be92a021-39a5-4b32-93aa-5d6852d99b91" width="45%">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/64f14ce2-f002-48c4-ab68-8524167d2fab" width="47%">
 
 
 
 
 
 
-<p align="center">$\textcolor{#8A674F}{\text{ᕼE ᗰᗩKEᔕ ᗰY ᗯᕼOᒪE ᗪᗩᗰᑎ ᗷOᗪY ᔕᕼIᐯEᖇ}}$
+
 
 <details
   <p align="center"><summary>$\textcolor{#BA949F}{\text{♡}}$</summary>
@@ -22,7 +25,7 @@
 
 </details>
 
-<p align="center"><a href=https://kybleat.straw.page>Strawpage</a><a href=https://1890s.straw.page target="_blank"></a>
+
 	
 
 
