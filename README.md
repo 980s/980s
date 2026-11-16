@@ -4,13 +4,13 @@
 
 
 
-<p align="center">$\textcolor{#681416}{\text{This is a WIP, photos aren’t clickable yet.}}$
+<p align="center">$\textcolor{#681416}{\text{This is a WIP.}}$
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/be92a021-39a5-4b32-93aa-5d6852d99b91" width="45%">
+  <img src="" width="45%">
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/64f14ce2-f002-48c4-ab68-8524167d2fab" width="47%">
+  <img src="b" width="47%">
 
 
 
