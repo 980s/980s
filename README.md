@@ -7,10 +7,7 @@
 <p align="center">$\textcolor{#681416}{\text{This is a WIP.}}$
 
 
-<p align="center">
-  <img src="" width="45%">
-  &nbsp;&nbsp;
-  <img src="b" width="47%">
+
 
 
 
