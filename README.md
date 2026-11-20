@@ -18,7 +18,7 @@
 
 <details
   <p align="center"><summary>$\textcolor{#BA949F}{\text{♡}}$</summary>
-  <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>@kagekauu</a><a href=https://1890s.straw.page target="_blank"></a>
+  <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>     <a href=https://github.com/sakumaki>/a><a href=https://1890s.straw.page target="_blank"></a>
 
 </details>
 
