@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**980s/980s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="left" src="https://github.com/user-attachments/assets/26d36796-4bc5-4680-8af8-35bcf17b702a" width="40%" alt="Left image" />
+  <img align="right" src="https://github.com/user-attachments/assets/c98ac975-80aa-4d46-92b2-c855c8f3e25d" width="40%" alt="Right image" />
+</p>
+<br clear="both" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"><img width="501" height="300" alt="image" src="https://github.com/user-attachments/assets/64c621b1-cda1-43e8-a839-40e8b70c349b" />
+
+
+
+<details
+  <p align="center"><summary>$\textcolor{#BA949F}{\text{♡}}$</summary>
+  <p align="center"><a href=https://github.com/BigGay-AL>@BigGay-AL</a><a href=https://1890s.straw.page target="_blank"></a>    
+
+</details>
+
