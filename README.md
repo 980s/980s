@@ -1,3 +1,5 @@
+<p align="center">$\color{#61182B}{\text{Kyle Broflovski since 2021}}$
+
 <p align="center"><img width="1014" height="750" alt="image" src="https://github.com/user-attachments/assets/c243fdfa-f29c-49d6-9ffd-793b1d644708" />
 
 
